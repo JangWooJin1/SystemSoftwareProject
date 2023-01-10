@@ -1,0 +1,17 @@
+add 18
+sub 1c
+mul 20
+comp 28
+j 3C
+jeq 30
+jgt 34
+jlt 38
+jsub 48
+lda 00
+ldch 50
+ldx 04
+rsub 4C
+sta 0C
+stx 10
+stch 54
+tix 2C

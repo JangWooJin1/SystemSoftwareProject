@@ -1,0 +1,10 @@
+1000            test   start    1000
+1000  00100C   first     lda    zero
+1003  181012             add    two
+1006  201015             mul    three
+1009  1c100F             sub    one
+100c  000000    zero    word    0
+100f  000001     one    word    1
+1012  000002     two    word    2
+1015  000003   three    word    3
+1018                     end    first
